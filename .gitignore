@@ -13,6 +13,16 @@ dist-ssr
 *.local
 
 .env
+
+data.forcast.json
+data.json
+data.unsplash.json
+
+
+
+
+
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
